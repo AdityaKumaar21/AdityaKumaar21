@@ -1,6 +1,6 @@
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 </div>
 
 </br>
@@ -30,17 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumaar21&show_icons=true&locale=en&layout=compact" alt="adityakumaar21" /></p>
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Rust
-- ✨ System Design
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Coding
-- ✨ Partimer TT player 
 
 </br>
 </br>
