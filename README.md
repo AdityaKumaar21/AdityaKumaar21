@@ -5,7 +5,7 @@
 <br><br>
 
 # 👋 Hi there, I'm Aditya Chaurasia  
-### 🚀 A Rookie Passionate Software Developer  
+### 🚀 A Rookie curious and passionate engineer... 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adityakumaar21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
