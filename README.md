@@ -12,7 +12,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&width=600&lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning&color=1ABC9C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=4000&width=600&lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning&color=1ABC9C)
 
 
 ## 📊 GitHub Stats  
@@ -21,7 +21,7 @@
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AdityaKumaar21&show_icons=true&theme=radical)](https://github.com/AdityaKumaar21)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AdityaKumaar21&theme=radical)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumaar21&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumaar21&theme=merko&custom_title=ActivityGraph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
